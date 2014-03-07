@@ -17,18 +17,9 @@
 }
 
 /*
- uint32 status;
- NSString *_message;
+ int _status;
  uint64 _taskId;
  NSString *_url;
- NSString *_taskName;
- NSString *_cid;
- NSString *_gcid;
- uint64 _fileSize;
- uint32 _fileType;
- uint32_t _downloadStatus;
- uint32_t _progress;
- NSString *_lixianUrl;
  */
 
 - (IBAction)btnInterpretClicked:(id)sender

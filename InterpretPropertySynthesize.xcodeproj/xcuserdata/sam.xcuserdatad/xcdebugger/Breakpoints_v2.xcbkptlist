@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "InterpretPropertySynthesize/AppDelegate.m"
-            timestampString = "415720586.498101"
+            timestampString = "415858410.282874"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "154"
-            endingLineNumber = "154"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
             landmarkName = "-btnInterpretClicked:"
             landmarkType = "5">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "InterpretPropertySynthesize/AppDelegate.m"
-            timestampString = "415720586.498101"
+            timestampString = "415858410.282874"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "69"
-            endingLineNumber = "69"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "-btnInterpretClicked:"
             landmarkType = "5">
          </BreakpointContent>
